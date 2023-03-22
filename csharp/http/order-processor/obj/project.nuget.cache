@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfxkFj6ufrk4pLPnIg5/3d7QK+0JRIEjvilU2iT1/ACvQlTzfEuQ3eAKrpj/Hl1Niv0/u5DIU7heqB2wcuX4Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAROMANI\\Documents\\Git\\Resilience\\new_dapr\\csharp\\http\\order-processor\\order-processor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAROMANI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\RAROMANI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RAROMANI\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\RAROMANI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\RAROMANI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\RAROMANI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

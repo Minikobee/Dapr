@@ -1,0 +1,9 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: serviceinvocation
+spec:
+  type: daprservice
+  metadata:
+  - name: serviceAddress
+    value: localhost:5000

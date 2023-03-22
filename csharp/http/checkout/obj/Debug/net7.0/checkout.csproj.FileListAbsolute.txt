@@ -1,0 +1,15 @@
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\bin\Debug\net7.0\checkout.exe
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\bin\Debug\net7.0\checkout.deps.json
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\bin\Debug\net7.0\checkout.runtimeconfig.json
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\bin\Debug\net7.0\checkout.dll
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\bin\Debug\net7.0\checkout.pdb
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\checkout.csproj.AssemblyReference.cache
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\checkout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\checkout.AssemblyInfoInputs.cache
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\checkout.AssemblyInfo.cs
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\checkout.csproj.CoreCompileInputs.cache
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\checkout.dll
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\refint\checkout.dll
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\checkout.pdb
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\checkout.genruntimeconfig.cache
+C:\Users\RAROMANI\Documents\Git\Resilience\new_dapr\csharp\http\checkout\obj\Debug\net7.0\ref\checkout.dll
